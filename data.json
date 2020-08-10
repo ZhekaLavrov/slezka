@@ -1,0 +1,827 @@
+{
+  "430721691": {
+    "first_name": "Анна",
+    "last_name": "Синицына",
+    "seens": [
+      {
+        "get_seen": 1596989506,
+        "time": 1596987276,
+        "n_time": "09.08.2020 22:34:36 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596991479,
+        "time": 1596991460,
+        "n_time": "09.08.2020 23:44:20 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596991541,
+        "time": 1596991511,
+        "n_time": "09.08.2020 23:45:11 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596991632,
+        "time": 1596991625,
+        "n_time": "09.08.2020 23:47:05 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596991818,
+        "time": 1596991771,
+        "n_time": "09.08.2020 23:49:31 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596991846,
+        "time": 1596991833,
+        "n_time": "09.08.2020 23:50:33 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596991878,
+        "time": 1596991854,
+        "n_time": "09.08.2020 23:50:54 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596991933,
+        "time": 1596991905,
+        "n_time": "09.08.2020 23:51:45 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596992006,
+        "time": 1596991994,
+        "n_time": "09.08.2020 23:53:14 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596992062,
+        "time": 1596992012,
+        "n_time": "09.08.2020 23:53:32 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596992212,
+        "time": 1596992202,
+        "n_time": "09.08.2020 23:56:42 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596992280,
+        "time": 1596992267,
+        "n_time": "09.08.2020 23:57:47 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596992322,
+        "time": 1596992290,
+        "n_time": "09.08.2020 23:58:10 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596992642,
+        "time": 1596992596,
+        "n_time": "10.08.2020 00:03:16 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596992672,
+        "time": 1596992670,
+        "n_time": "10.08.2020 00:04:30 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596992844,
+        "time": 1596992812,
+        "n_time": "10.08.2020 00:06:52 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596992874,
+        "time": 1596992874,
+        "n_time": "10.08.2020 00:07:54 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596992915,
+        "time": 1596992911,
+        "n_time": "10.08.2020 00:08:31 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596992976,
+        "time": 1596992971,
+        "n_time": "10.08.2020 00:09:31 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993060,
+        "time": 1596993031,
+        "n_time": "10.08.2020 00:10:31 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993080,
+        "time": 1596993076,
+        "n_time": "10.08.2020 00:11:16 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993110,
+        "time": 1596993091,
+        "n_time": "10.08.2020 00:11:31 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993172,
+        "time": 1596993151,
+        "n_time": "10.08.2020 00:12:31 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993203,
+        "time": 1596993198,
+        "n_time": "10.08.2020 00:13:18 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993234,
+        "time": 1596993212,
+        "n_time": "10.08.2020 00:13:32 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993295,
+        "time": 1596993272,
+        "n_time": "10.08.2020 00:14:32 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993357,
+        "time": 1596993332,
+        "n_time": "10.08.2020 00:15:32 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993388,
+        "time": 1596993368,
+        "n_time": "10.08.2020 00:16:08 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993419,
+        "time": 1596993392,
+        "n_time": "10.08.2020 00:16:32 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993481,
+        "time": 1596993460,
+        "n_time": "10.08.2020 00:17:40 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993511,
+        "time": 1596993481,
+        "n_time": "10.08.2020 00:18:01 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993540,
+        "time": 1596993512,
+        "n_time": "10.08.2020 00:18:32 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993595,
+        "time": 1596993572,
+        "n_time": "10.08.2020 00:19:32 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993656,
+        "time": 1596993646,
+        "n_time": "10.08.2020 00:20:46 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993686,
+        "time": 1596993658,
+        "n_time": "10.08.2020 00:20:58 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993717,
+        "time": 1596993693,
+        "n_time": "10.08.2020 00:21:33 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993748,
+        "time": 1596993740,
+        "n_time": "10.08.2020 00:22:20 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596993779,
+        "time": 1596993755,
+        "n_time": "10.08.2020 00:22:35 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994157,
+        "time": 1596994114,
+        "n_time": "10.08.2020 00:28:34 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994187,
+        "time": 1596994174,
+        "n_time": "10.08.2020 00:29:34 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994248,
+        "time": 1596994234,
+        "n_time": "10.08.2020 00:30:34 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994310,
+        "time": 1596994295,
+        "n_time": "10.08.2020 00:31:35 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994371,
+        "time": 1596994355,
+        "n_time": "10.08.2020 00:32:35 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994433,
+        "time": 1596994415,
+        "n_time": "10.08.2020 00:33:35 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994497,
+        "time": 1596994475,
+        "n_time": "10.08.2020 00:34:35 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994558,
+        "time": 1596994535,
+        "n_time": "10.08.2020 00:35:35 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994620,
+        "time": 1596994595,
+        "n_time": "10.08.2020 00:36:35 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994681,
+        "time": 1596994656,
+        "n_time": "10.08.2020 00:37:36 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994712,
+        "time": 1596994700,
+        "n_time": "10.08.2020 00:38:20 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994743,
+        "time": 1596994716,
+        "n_time": "10.08.2020 00:38:36 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994805,
+        "time": 1596994776,
+        "n_time": "10.08.2020 00:39:36 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994836,
+        "time": 1596994836,
+        "n_time": "10.08.2020 00:40:36 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994898,
+        "time": 1596994896,
+        "n_time": "10.08.2020 00:41:36 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994960,
+        "time": 1596994956,
+        "n_time": "10.08.2020 00:42:36 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596994991,
+        "time": 1596994974,
+        "n_time": "10.08.2020 00:42:54 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1596995022,
+        "time": 1596995016,
+        "n_time": "10.08.2020 00:43:36 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1597049268,
+        "time": 1597048724,
+        "n_time": "10.08.2020 15:38:44 gmt+7",
+        "platform": 4,
+        "ruPlatform": "приложение для Android"
+      },
+      {
+        "get_seen": 1597050617,
+        "time": 1597050531,
+        "n_time": "10.08.2020 16:08:51 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      },
+      {
+        "get_seen": 1597050723,
+        "time": 1597050715,
+        "n_time": "10.08.2020 16:11:55 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      },
+      {
+        "get_seen": 1597050970,
+        "time": 1597050961,
+        "n_time": "10.08.2020 16:16:01 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      },
+      {
+        "get_seen": 1597051001,
+        "time": 1597050994,
+        "n_time": "10.08.2020 16:16:34 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      },
+      {
+        "get_seen": 1597051062,
+        "time": 1597051054,
+        "n_time": "10.08.2020 16:17:34 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      },
+      {
+        "get_seen": 1597051124,
+        "time": 1597051114,
+        "n_time": "10.08.2020 16:18:34 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      },
+      {
+        "get_seen": 1597051155,
+        "time": 1597051153,
+        "n_time": "10.08.2020 16:19:13 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      },
+      {
+        "get_seen": 1597051186,
+        "time": 1597051174,
+        "n_time": "10.08.2020 16:19:34 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      },
+      {
+        "get_seen": 1597051440,
+        "time": 1597051424,
+        "n_time": "10.08.2020 16:23:44 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      },
+      {
+        "get_seen": 1597051471,
+        "time": 1597051463,
+        "n_time": "10.08.2020 16:24:23 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      },
+      {
+        "get_seen": 1597051894,
+        "time": 1597051877,
+        "n_time": "10.08.2020 16:31:17 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      },
+      {
+        "get_seen": 1597051926,
+        "time": 1597051903,
+        "n_time": "10.08.2020 16:31:43 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      },
+      {
+        "get_seen": 1597051957,
+        "time": 1597051937,
+        "n_time": "10.08.2020 16:32:17 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      },
+      {
+        "get_seen": 1597051988,
+        "time": 1597051983,
+        "n_time": "10.08.2020 16:33:03 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      }
+    ]
+  },
+  "220584065": {
+    "first_name": "Евгений",
+    "last_name": "Лавров",
+    "seens": [
+      {
+        "get_seen": 1596989568,
+        "time": 1596989556,
+        "n_time": "09.08.2020 23:12:36 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596989599,
+        "time": 1596989571,
+        "n_time": "09.08.2020 23:12:51 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596990739,
+        "time": 1596990716,
+        "n_time": "09.08.2020 23:31:56 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596990801,
+        "time": 1596990788,
+        "n_time": "09.08.2020 23:33:08 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596991387,
+        "time": 1596991366,
+        "n_time": "09.08.2020 23:42:46 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596991818,
+        "time": 1596991721,
+        "n_time": "09.08.2020 23:48:41 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596992672,
+        "time": 1596992658,
+        "n_time": "10.08.2020 00:04:18 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596992844,
+        "time": 1596992769,
+        "n_time": "10.08.2020 00:06:09 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596992874,
+        "time": 1596992863,
+        "n_time": "10.08.2020 00:07:43 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596992915,
+        "time": 1596992906,
+        "n_time": "10.08.2020 00:08:26 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596993029,
+        "time": 1596993029,
+        "n_time": "10.08.2020 00:10:29 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596993060,
+        "time": 1596993046,
+        "n_time": "10.08.2020 00:10:46 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596993080,
+        "time": 1596993080,
+        "n_time": "10.08.2020 00:11:20 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596993110,
+        "time": 1596993084,
+        "n_time": "10.08.2020 00:11:24 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596993570,
+        "time": 1596993562,
+        "n_time": "10.08.2020 00:19:22 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596993595,
+        "time": 1596993575,
+        "n_time": "10.08.2020 00:19:35 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596994187,
+        "time": 1596994182,
+        "n_time": "10.08.2020 00:29:42 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596994217,
+        "time": 1596994212,
+        "n_time": "10.08.2020 00:30:12 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596994248,
+        "time": 1596994225,
+        "n_time": "10.08.2020 00:30:25 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596994527,
+        "time": 1596994517,
+        "n_time": "10.08.2020 00:35:17 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596994960,
+        "time": 1596994960,
+        "n_time": "10.08.2020 00:42:40 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1596994991,
+        "time": 1596994988,
+        "n_time": "10.08.2020 00:43:08 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1597049268,
+        "time": 1597046455,
+        "n_time": "10.08.2020 15:00:55 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1597049298,
+        "time": 1597049291,
+        "n_time": "10.08.2020 15:48:11 gmt+7",
+        "platform": 7,
+        "ruPlatform": "полная версия сайта"
+      },
+      {
+        "get_seen": 1597050653,
+        "time": 1597050622,
+        "n_time": "10.08.2020 16:10:22 gmt+7",
+        "platform": 7,
+        "ruPlatform": "Полная версия сайта"
+      },
+      {
+        "get_seen": 1597050816,
+        "time": 1597050809,
+        "n_time": "10.08.2020 16:13:29 gmt+7",
+        "platform": 7,
+        "ruPlatform": "Полная версия сайта"
+      },
+      {
+        "get_seen": 1597050846,
+        "time": 1597050817,
+        "n_time": "10.08.2020 16:13:37 gmt+7",
+        "platform": 7,
+        "ruPlatform": "Полная версия сайта"
+      },
+      {
+        "get_seen": 1597051001,
+        "time": 1597050981,
+        "n_time": "10.08.2020 16:16:21 gmt+7",
+        "platform": 7,
+        "ruPlatform": "Полная версия сайта"
+      },
+      {
+        "get_seen": 1597051286,
+        "time": 1597051276,
+        "n_time": "10.08.2020 16:21:16 gmt+7",
+        "platform": 7,
+        "ruPlatform": "Полная версия сайта"
+      },
+      {
+        "get_seen": 1597051379,
+        "time": 1597051372,
+        "n_time": "10.08.2020 16:22:52 gmt+7",
+        "platform": 7,
+        "ruPlatform": "Полная версия сайта"
+      },
+      {
+        "get_seen": 1597051440,
+        "time": 1597051427,
+        "n_time": "10.08.2020 16:23:47 gmt+7",
+        "platform": 7,
+        "ruPlatform": "Полная версия сайта"
+      },
+      {
+        "get_seen": 1597051864,
+        "time": 1597051859,
+        "n_time": "10.08.2020 16:30:59 gmt+7",
+        "platform": 7,
+        "ruPlatform": "Полная версия сайта"
+      },
+      {
+        "get_seen": 1597051894,
+        "time": 1597051890,
+        "n_time": "10.08.2020 16:31:30 gmt+7",
+        "platform": 7,
+        "ruPlatform": "Полная версия сайта"
+      },
+      {
+        "get_seen": 1597051926,
+        "time": 1597051920,
+        "n_time": "10.08.2020 16:32:00 gmt+7",
+        "platform": 7,
+        "ruPlatform": "Полная версия сайта"
+      }
+    ]
+  },
+  "280020662": {
+    "first_name": "Евгения",
+    "last_name": "Шуплецова",
+    "seens": [
+      {
+        "get_seen": 1597051864,
+        "time": 1597051746,
+        "n_time": "10.08.2020 16:29:06 gmt+7",
+        "platform": 1,
+        "ruPlatform": "Мобильная версия"
+      }
+    ]
+  },
+  "550294409": {
+    "first_name": "Анастасия",
+    "last_name": "Карсунцева",
+    "seens": [
+      {
+        "get_seen": 1597051864,
+        "time": 1597043617,
+        "n_time": "10.08.2020 14:13:37 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      }
+    ]
+  },
+  "309717777": {
+    "first_name": "Луиза",
+    "last_name": "Фаркаш",
+    "seens": [
+      {
+        "get_seen": 1597051864,
+        "time": 1597006887,
+        "n_time": "10.08.2020 04:01:27 gmt+7",
+        "platform": 7,
+        "ruPlatform": "Полная версия сайта"
+      }
+    ]
+  },
+  "394382948": {
+    "first_name": "Ксения",
+    "last_name": "Иванова",
+    "seens": [
+      {
+        "get_seen": 1597051864,
+        "time": 1597051758,
+        "n_time": "10.08.2020 16:29:18 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      }
+    ]
+  },
+  "422861279": {
+    "first_name": "Маргарита",
+    "last_name": "Кондалова",
+    "seens": [
+      {
+        "get_seen": 1597051894,
+        "time": 1597050764,
+        "n_time": "10.08.2020 16:12:44 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      }
+    ]
+  },
+  "177652241": {
+    "first_name": "Полина",
+    "last_name": "Елфимова",
+    "seens": [
+      {
+        "get_seen": 1597051894,
+        "time": 1597048384,
+        "n_time": "10.08.2020 15:33:04 gmt+7",
+        "platform": 4,
+        "ruPlatform": "Приложение для Android"
+      }
+    ]
+  }
+}
